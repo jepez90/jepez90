@@ -1,2 +1,2 @@
 # jepez90.github.io
-[hola](img/Readme_media/logoPythonBasic.svg)
+[![svg img](img/Readme_media/logoPythonBasic.svg)](https://twitter.com/Jepez90)
