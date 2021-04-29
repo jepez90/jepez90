@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100mm" height="100mm" version="1.1" style="image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 10000 10000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:white;stroke-width:400;stroke-linecap:square;stroke-miterlimit:22.9256}
+    .str1 {stroke:white;stroke-width:400;stroke-linecap:square;stroke-miterlimit:10.4334}
+    .fil2 {fill:none}
+    .fil0 {fill:#2570C1}
+    .fil1 {fill:#90CAF9}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <path class="fil0" d="M1295.98 9698.97l7196.64 0 0 -6879.12c0,0 -2434.17,-2434.14 -2434.17,-2434.14l-4762.47 0 0 9313.26z"/>
+  <polygon class="fil1" points="5948.17,2890.65 7947.52,2890.65 5948.17,892.5 "/>
+  <line class="fil2 str0" x1="5395.24" y1="4146.7" x2="4430.85" y2= "7980.22" />
+  <path class="fil2 str1" d="M6920.07 6067.52l-988.52 988.52m988.52 -988.52l-988.52 -988.53"/>
+  <path class="fil2 str1" d="M2886.95 6067.52l988.52 988.52m-988.52 -988.52l988.52 -988.53"/>
+ </g>
+</svg>
