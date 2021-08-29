@@ -35,6 +35,7 @@
         <img src="https://raw.githubusercontent.com/jepez90/jepez90.github.io/master/img/Readme_media/logoCpp.svg" alt="cplusplus" width="40" height="40"/>
     </a>-->
     <br>
+    <br>
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" alt="git github"/>
     </a>&nbsp;
@@ -48,14 +49,26 @@
 </p>
 <h3 align="left">Github Stats:</h3>
 <p align="center">
-<a href="https://github.com/jepez90"><img src="https://visitor-badge.glitch.me/badge?page_id=jepez90.test&" alt="badget visitors"></a>
-<img src="https://github-profile-trophy.vercel.app/?username=jepez90&theme=gruvbox&margin-w=15&margin-h=15&no-bg=true&no-frame=true&row=1&column=4" alt="jepez90">
+    <a href="https://github.com/jepez90">
+        <img src="https://visitor-badge.glitch.me/badge?page_id=jepez90.test&" alt="badget visitors">
+    </a>
+    <br>
+    <a href="https://github.com/jepez90">
+        <img src="https://github-profile-trophy.vercel.app/?username=jepez90&theme=gruvbox&margin-w=15&margin-h=15&no-bg=true&no-frame=true&row=1&column=4" alt="jepez90">
+    </a>
+    <br>
+    <a href="https://github.com/jepez90">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jepez90&show_icons=true&locale=en&layout=compact&langs_count=4&theme=gruvbox&bg_color=FFFFFF00" alt="jepez90" />
+    </a>
 </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jepez90&show_icons=true&locale=en&layout=compact&langs_count=4&theme=gruvbox&bg_color=FFFFFF00" alt="jepez90" /></p>
 <details>
 	<summary>📈&nbsp;&nbsp;<b>More stats</b></summary>
     <p align="center">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=jepez90&theme=gruvbox&background=FFFFFF00" alt="jepez90" />
-        <img src="https://github-readme-stats.vercel.app/api?username=jepez90&show_icons=true&locale=en&theme=gruvbox&bg_color=FFFFFF00" alt="jepez90" />
+        <a href="https://github.com/jepez90">
+            <img src="https://github-readme-stats.vercel.app/api?username=jepez90&show_icons=true&locale=en&theme=gruvbox&bg_color=FFFFFF00" alt="jepez90" />
+        </a>
+        <a href="https://github.com/jepez90">
+            <img src="http://github-readme-streak-stats.herokuapp.com?user=jepez90&theme=gruvbox&background=FFFFFF00" alt="jepez90" />
+        </a>
     </p>
 </details>
